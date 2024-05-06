@@ -2,7 +2,7 @@ class.txt
 
 Crimson
 Orange
-Blue
+Green
 Cyan
 Yellow
 Charcoal
@@ -10,7 +10,8 @@ Khaki
 Coral
 Silver
 Fuchsia
-Purple
+Ivory
+Gray
 Brown
 Red
 
